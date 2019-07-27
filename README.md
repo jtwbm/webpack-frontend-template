@@ -1,2 +1,3 @@
-# webpack-frontend-template
-webpack, html, scss, js
+# webpack template
+Фронтовая сборка вебпак (в разработке)
+
